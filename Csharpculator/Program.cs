@@ -70,6 +70,8 @@ namespace Csharpculator
 
                 Console.WriteLine("\n");
             }
+
+            calculator.Finish();
             return;
         }
     }
